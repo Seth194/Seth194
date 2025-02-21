@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hey, I'm Seth. 👋  
 
-<!--
-**Seth194/Seth194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I live in England. I like volunteering, staying active, code editors, and coding 🙃.  
 
-Here are some ideas to get you started:
+### Get In Touch  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sethduku01@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seth-duku-ab1364280) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://sethduku.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Work With  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript) 
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js) 
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react) 
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)  
+
+![Seth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seth194&show_icons=true&theme=dark)  
+ 
+
+
+
+
+
+
+
