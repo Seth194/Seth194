@@ -14,7 +14,7 @@ I live in England. I like volunteering, staying active, code editors, and coding
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5) 
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)  
 
-![Seth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seth194&show_icons=true&theme=dark)  
+![Seth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seth194&show_icons=true&theme=light) 
  
 
 
