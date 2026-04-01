@@ -4,7 +4,6 @@ I live in England. I like volunteering, staying active, code editors, and coding
 
 ### Get In Touch  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sethduku01@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seth-duku-ab1364280) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://sethduku.com)  
 
 ### What I Work With  
